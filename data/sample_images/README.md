@@ -11,23 +11,19 @@ These images provide an overview of the data types and quality used in our studi
 
 These images show good parts without phase stripes:
 
-![Good part no stripes 1](sample_nostripes1.png)  
-![Good part no stripes 2](sample_nostripes2.png)
-
-
-<img src="sample_nostripes1.png" alt="Good part no stripes 1" width="300"/>
-<img src="sample_nostripes2.png" alt="Good part no stripes 2" width="300"/>
+<img src="sample_nostripes1.png" alt="Good part no stripes 1" width="400">
+<img src="sample_nostripes2.png" alt="Good part no stripes 2" width="400">
 ---
 
 ## Good Parts for Training (With Stripes)
 
 These images show defect-free parts exhibiting phase stripes, providing variation in the training data.
 
-![Good part with stripes 1](sample_stripes1.png)  
-![Good part with stripes 2](sample_stripes2.png)  
-![Good part with stripes 4](sample_stripes4.png)  
-![Good part with stripes 5](sample_stripes5.png)  
-![Good part with stripes 7](sample_stripes7.png)  
+<img src="sample_stripes1.png" alt="Good part with stripes 1" width="400">
+<img src="sample_stripes2.png" alt="Good part with stripes 2" width="400">
+<img src="sample_stripes4.png" alt="Good part with stripes 4" width="400">
+<img src="sample_stripes5.png" alt="Good part with stripes 5" width="400">
+<img src="sample_stripes7.png" alt="Good part with stripes 7" width="400"> 
 
 ---
 
@@ -35,8 +31,8 @@ These images show defect-free parts exhibiting phase stripes, providing variatio
 
 These images depict parts with faults or defects, without phase stripes visible.
 
-![Fault no stripes 1](sample_fault_nostripes1.png)  
-![Fault no stripes 2](sample_fault_nostripes2.png)  
+<img src="sample_fault_nostripes1.png" alt="Fault no stripes 1" width="400">
+<img src="sample_fault_nostripes2.png" alt="Fault no stripes 2" width="400">
 
 ---
 
@@ -44,9 +40,9 @@ These images depict parts with faults or defects, without phase stripes visible.
 
 These images show defective parts where phase stripes are present.
 
-![Fault with stripes 1](sample_fault_stripes1.png)  
-![Fault with stripes 2](sample_fault_stripes2.png)  
-![Fault with stripes 3](sample_fault_stripes3.png)  
-![Fault with stripes 4](sample_fault_stripes4.png)  
+<img src="sample_fault_stripes1.png" alt="Fault with stripes 1" width="400">
+<img src="sample_fault_stripes2.png" alt="Fault with stripes 2" width="400">
+<img src="sample_fault_stripes3.png" alt="Fault with stripes 3" width="400">
+<img src="sample_fault_stripes4.png" alt="Fault with stripes 4" width="400"> 
 
 ---
