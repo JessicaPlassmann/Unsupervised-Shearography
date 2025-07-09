@@ -1,18 +1,27 @@
-# Unsupervised Learning for Industrial Defect Detection: A Case Study on Shearographic Data
+# Unsupervised Learning for Shearography-Based Defect Detection
 
-This repository contains the code and dataset associated with our submission to **SGAI 2025**.
+This repository serves as a central collection point for data, code, and results related to our ongoing research on the **automated evaluation of shearographic measurement data**, with a particular focus on **unsupervised** and **weakly supervised learning** approaches.
 
-## ⚠️ Note to Reviewers
+We aim to explore and evaluate methods that reduce or eliminate the need for manual labeling in the context of defect detection using shearography.
 
-This repository is currently **not public**. If our paper is accepted, we will publish the dataset and code in this repository to ensure full reproducibility and open access.
+## Repository Scope
 
-However, if you would like to **access the dataset or code prior to acceptance**, please feel free to reach out via the contact information provided in the submitted paper. We are happy to provide access upon request.
+The repository is structured to support a growing set of contributions in this research direction. It includes:
 
-## Contents (to be added upon acceptance)
+- A curated dataset of shearographic image data
+- Representative image samples categorized by structure and defect presence
+- Code used in our publications and experiments
+- Scripts and models for unsupervised and weakly supervised learning tasks
 
-- 📁 Source code for all experiments and models  
-- 🗂️ Annotated dataset used in our experiments  
-- 📊 Evaluation scripts and result visualizations  
-- 📸 Example images / input-output samples
+New modules and datasets may be added in the future as this line of research evolves.
 
-Thank you for your time and consideration!
+## Note to Reviewers
+
+> This repository contains materials related to our **SGAI 2025 submission** on unsupervised learning for shearographic data.  
+>
+> The full dataset and source code will be made public upon paper acceptance to ensure transparency and reproducibility.  
+>
+> If early access is required for the purpose of reviewing or further clarification, please don’t hesitate to reach out. My contact information is included in the submitted manuscript and I am happy to provide the necessary materials upon request.
+
+---
+Thank you very much for your time and consideration.
