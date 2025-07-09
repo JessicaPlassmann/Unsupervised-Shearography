@@ -14,6 +14,9 @@ These images show good parts without phase stripes:
 ![Good part no stripes 1](sample_nostripes1.png)  
 ![Good part no stripes 2](sample_nostripes2.png)
 
+
+<img src="sample_nostripes1.png" alt="Good part no stripes 1" width="300"/>
+<img src="sample_nostripes2.png" alt="Good part no stripes 2" width="300"/>
 ---
 
 ## Good Parts for Training (With Stripes)
@@ -22,10 +25,8 @@ These images show defect-free parts exhibiting phase stripes, providing variatio
 
 ![Good part with stripes 1](sample_stripes1.png)  
 ![Good part with stripes 2](sample_stripes2.png)  
-![Good part with stripes 3](sample_stripes3.png)  
 ![Good part with stripes 4](sample_stripes4.png)  
 ![Good part with stripes 5](sample_stripes5.png)  
-![Good part with stripes 6](sample_stripes6.png)  
 ![Good part with stripes 7](sample_stripes7.png)  
 
 ---
