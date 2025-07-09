@@ -7,7 +7,7 @@ These images provide an overview of the data types and quality used in our studi
 
 ---
 
-## Good Parts for Training without Stripes
+## Good Parts for Training (No Stripes)
 
 These images show good parts without phase stripes:
 
