@@ -8,7 +8,7 @@ https://zenodo.org/records/17631257
 
 <h2>Dataset Acquisition</h2>
 
-The shearographic data were acquired using a shearography sensor from Tenta Vision GmbH, which was mounted on a UR5 industrial robot arm (Universal Robots) to enable automated measurements.  
+The shearographic data were acquired using a shearography sensor from Tenta Vision GmbH (https://www.tenta-vision.de), which was mounted on a UR5 industrial robot arm (Universal Robots) to enable automated measurements.  
 
 The measurement procedure employed spatial phase-shifting shearography, with a shear value of 1 mm oriented at a 45° angle relative to the specimen surface.  
 Illumination was applied at a 0° angle, i.e., perpendicular to the specimen surface.  
