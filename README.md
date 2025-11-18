@@ -17,7 +17,7 @@ New modules and datasets may be added in the future as this line of research evo
 
 ## Note to Reviewers
 
-> This repository contains materials related to our **SGAI 2025 submission** on unsupervised learning for shearographic data.  
+> This repository contains materials related to our **SGAI 2025 submission** on unsupervised learning and our **automated annotation submission** on weakly supervised learning for shearographic data.  
 >
 > The full dataset and source code will be made public upon paper acceptance to ensure transparency and reproducibility.  
 >
