@@ -25,7 +25,7 @@ New modules and datasets may be added in the future as this line of research evo
 
 ## Note to Reviewers
 
-> This repository contains materials related to our **published work on unsupervised learning** [10.1007/978-3-032-11442-6_22](https://doi.org/10.1007/978-3-032-11442-6_22) and our **submitted manuscript on on weakly supervised learning** for shearographic data.  
+> This repository contains materials related to our **published work on unsupervised learning** ([10.1007/978-3-032-11442-6_22](https://doi.org/10.1007/978-3-032-11442-6_22)) and our **submitted manuscript on on weakly supervised learning** for shearographic data.  
 >
 > The full dataset and source code will be made public upon paper acceptance to ensure transparency and reproducibility.  
 >
