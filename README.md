@@ -22,9 +22,10 @@ New modules and datasets may be added in the future as this line of research evo
 3. [Set up your virtual environment](https://docs.python.org/3/library/venv.html) and install the required packages using `pip install -r requirements.txt` (be sure to install torch GPU support beforehand), see `./requirements.txt`
 4. Source your virtual environment and run a script of your choice, e.g. `python ./scripts/unsupervised/train_eval_all.py` to train and evaluate the entire unsupervised pipeline
 
+
 ## Note to Reviewers
 
-> This repository contains materials related to our **SGAI 2025 submission** on unsupervised learning for shearographic data.  
+> This repository contains materials related to our **published work on unsupervised learning** [10.1007/978-3-032-11442-6_22](https://doi.org/10.1007/978-3-032-11442-6_22) and our **submitted manuscript on on weakly supervised learning** for shearographic data.  
 >
 > The full dataset and source code will be made public upon paper acceptance to ensure transparency and reproducibility.  
 >
@@ -32,3 +33,4 @@ New modules and datasets may be added in the future as this line of research evo
 
 ---
 Thank you very much for your time and consideration.
+
