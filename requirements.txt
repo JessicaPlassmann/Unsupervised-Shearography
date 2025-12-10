@@ -1,0 +1,31 @@
+# Data Science
+pandas
+numpy
+
+# Visualization
+matplotlib
+plotly
+dash
+
+# Image I/O
+pillow
+opencv-python
+kaleido
+
+# Machine Learning
+scikit-learn
+transformers
+ultralytics
+hf-xet
+# Install torch via
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124
+# If you use the packages below instead, you will not have GPU support!
+# torch>=2.6.0+cu124
+# torchvision>=0.21.0+cu124
+
+# Metrics
+torchmetrics
+pycocotools
+
+# Logging
+tqdm
