@@ -1,0 +1,5 @@
+train: SADD/images/faulty/train
+val: SADD/images/faulty/val
+
+names:
+  0: fault
