@@ -1,0 +1,7 @@
+{
+  "seed": null,
+  "export_folder": "cells_bbox_dino",
+  "model_to_finetune": "yolov8m.pt",
+  "datset": "yolo_labels",
+  "settings": "yolov8-p6.yaml"
+}
