@@ -1,0 +1,7 @@
+{
+  "seed": null,
+  "export_folder": "cells_seg_sam",
+  "model_to_finetune": "yolov8m-seg.pt",
+  "datset": "yolo_labels",
+  "settings": "yolov8m-seg-p6.yaml"
+}
