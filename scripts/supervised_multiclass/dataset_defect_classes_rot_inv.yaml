@@ -1,0 +1,21 @@
+# Dataset root directory
+path: insert/path/here
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 11
+
+names:
+  0: Circ1
+  1: Circ2
+  2: Circ3
+  3: Circ4
+  4: Circ5
+  5: Circ6
+  6: Edge
+  7: Rect02x1
+  8: Rect05x1
+  9: Rect05x2
+  10: Rect10x2
