@@ -24,13 +24,12 @@ New modules and datasets may be added in the future as this line of research evo
 
 
 ## Note to Reviewers
-
-> This repository contains materials related to our **published work on unsupervised learning** ([10.1007/978-3-032-11442-6_22](https://doi.org/10.1007/978-3-032-11442-6_22)) and our **submitted manuscript on on weakly supervised learning** for shearographic data.  
->
-> The full dataset and source code will be made public upon paper acceptance to ensure transparency and reproducibility.  
->
-> If early access is required for the purpose of reviewing or further clarification, please don’t hesitate to reach out. My contact information is included in the submitted manuscript and I am happy to provide the necessary materials upon request.
-
----
-Thank you very much for your time and consideration.
+> This repository contains materials related to our research on shearographic anomaly detection.
+> 
+> It includes:
+> - Our **published work on unsupervised learning** for shearography: [10.1007/978-3-032-11442-6_22](https://doi.org/10.1007/978-3-032-11442-6_22).
+> - Our **preprint on weakly supervised learning** for shearographic data: [10.48550/arXiv.2512.06171](https://arxiv.org/abs/2512.06171).
+> - Our **recently submitted manuscript** to *Machine Vision and Applications*. For questions regarding this submission, please contact the corresponding author.
+>   
+> Thank you very much for your time and consideration.
 
