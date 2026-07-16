@@ -19,8 +19,14 @@ New modules and datasets may be added in the future as this line of research evo
 
 1. Download the Shearographic Anomaly Detection Dataset (SADD) using [this DOI](https://doi.org/10.5281/zenodo.17631257): 10.5281/zenodo.17631257 (size: ~ 5GB)
 2. Extract the content of the downloaded zip file into `./resources/data/dataset`, resulting in a folder structure like `./resources/data/dataset/SADD/images` etc.
-3. [Set up your virtual environment](https://docs.python.org/3/library/venv.html) and install the required packages using `pip install -r requirements.txt` (be sure to install torch GPU support beforehand), see `./requirements.txt`
-4. Source your virtual environment and run a script of your choice, e.g. `python ./scripts/unsupervised/train_eval_all.py` to train and evaluate the entire unsupervised pipeline
+3. Install Torch with GPU support using `pip install torch torchvision --index-url https://download.pytorch.org/whl/cu124` or similar depending on your CUDA version
+4. [Set up your virtual environment](https://docs.python.org/3/library/venv.html) and install the required packages using `pip install -r requirements.txt` (be sure to install torch GPU support beforehand), see `./requirements.txt`
+5. Source your virtual environment and run a script of your choice, e.g. `python -m scripts.unsupervised.train_eval_all` to train and evaluate the entire unsupervised pipeline
+
+Scripts to run: 
+* Unsupervised: `python -m scripts.unsupervised.train_eval_all`
+* Weakly Supervised: `python -m scripts.weakly_supervised.generate_train_eval_all`
+* Supervised Multiclass: `python -m scripts.supervised_multiclass.train_yolo`
 
 
 ## Note to Reviewers

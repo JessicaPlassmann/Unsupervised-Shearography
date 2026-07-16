@@ -1,0 +1,6 @@
+.idea
+venv
+resources/data/dataset/SADD_**.zip
+resources/data/dataset/SADD
+resources/results
+**/yolo**.pt
