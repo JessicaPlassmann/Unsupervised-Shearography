@@ -46,7 +46,7 @@ if __name__ == '__main__':
                             expert_annotations.joinpath('yolo_labels'))
     model = ultralytics.YOLO('yolov8m.pt')
     model.train(
-        data=yaml_file, epochs=1,
+        data=yaml_file, epochs=50,
         name='one_class',
         project=project_path,
         seed=SEED
@@ -58,7 +58,7 @@ if __name__ == '__main__':
                                 'yolo_labels_defect_classes'))
     model = ultralytics.YOLO('yolov8m.pt')
     model.train(
-        data=yaml_file, epochs=1,
+        data=yaml_file, epochs=50,
         name='multi_class',
         project=project_path,
         seed=SEED
@@ -70,7 +70,7 @@ if __name__ == '__main__':
                                 'yolo_labels_defect_classes_rotation_invariant'))
     model = ultralytics.YOLO('yolov8m.pt')
     model.train(
-        data=yaml_file, epochs=1,
+        data=yaml_file, epochs=50,
         name='multi_class_rot_inv',
         project=project_path,
         seed=SEED
